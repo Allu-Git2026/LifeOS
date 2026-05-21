@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# env
+.env
+
+# build
+dist/
+build/
+
+# logs
+*.log
+
+# mac
+.DS_Store
+
+# prisma
+generated/
+
+# frontend
+frontend/dist
+
+# backend
+backend/dist
+
+# vscode
+.vscode
+
+# local cache
+.cache
